@@ -2,10 +2,10 @@
 * Accordeon
 */
 
-details {
+.accordeon {
     /* fermé et ouvert */
+    display: flex;
+    margin: 1.5em 0;
 }
 
-details[open] {
-    /* ouvert */
-}
+.accordeon[open] {}
