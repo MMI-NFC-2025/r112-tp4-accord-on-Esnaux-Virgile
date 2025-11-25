@@ -1,3 +1,11 @@
 /**
 * Accordeon
 */
+
+details {
+    /* fermé et ouvert */
+}
+
+details[open] {
+    /* ouvert */
+}
